@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(/фон\ 4.jpg) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.one {
+    display: flex;
+    color: white;
+}
+
+.one h2{
+    font-size: 45px;
+    margin-left: 200px;
+     padding-top: 70px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.one p{
+    margin-left: 150px;
+    padding-top: 80px;
+}
+
+.container2{
+    background-image: url(/фон\ 2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 210vh;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.two h2{
+    margin-left: 250px;
+    color: white;
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 40px;
+}
+
+.two p{
+    border: 1px solid #fff;
+    width: 280px;
+    margin-left: 250px;
+    padding: 15px;
+    margin-top: 35px;
+    height: 210px;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+}
+
+.two span{
+    color: red;
+}
+
+.p{
+    border: 1px solid #fff;
+    width: 310px;
+    height: 26px;
+    color: #fff;
+    /* margin-left: 250px; */
+    text-align: center;
+    margin-top: 455px;
+    padding-top: 13px;
+   position: relative;
+   right: 330px;
+}
+
+.three p{
+    border: 1px solid #fff;
+    width: 280px;
+    /* margin-left: 250px; */
+    /* margin-left: 190px; */
+    padding: 15px;
+    margin-top: 183px;
+    height: 210px;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+}
+.three span{
+    color: red;
+}
+
+.three h4{
+   
+    border: 1px solid #fff;
+    width: 310px;
+    height: 26px;
+    color: #fff;
+    /* margin-left: 250px; */
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 13px;
+}
+
+.cont{
+    display: flex;
+}
+
+.four h2{
+    margin-left: 250px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* padding-top: 55px; */
+}
+
+.four h4{
+    color: #fff;
+    font-size: 19px;
+    padding-top: 20px;
+    margin-left: 250px;
+    padding-bottom: 10px;
+}
+img{
+   width:15px;
+   height: 15px;
+   margin-left: 250px;
+}
+.four p{
+    color: #fff;
+    margin-left: 250px;
+    padding-top: 7px;
+   
+}
+
+.lo{
+    color: #fff;
+    padding-top: 20px;
+    margin-left: 250px;
+}
+li{
+    color: #fff;
+}
+
+.five{
+   /* position: relative;
+   right: 200px; */
+   float: right;
+   position: relative;
+   top: -170px;
+   right: 240px;
+}
+.five p{
+    border: 1px solid #fff;
+    width: 310px;
+    height: 26px;
+    color: #fff;
+    /* margin-left: 250px; */
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 13px;
+}
+
+.dd{
+    border: 1px solid #fff;
+    width: 310px;
+    height: 26px;
+    color: #fff;
+    /* margin-left: 250px; */
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 13px;
+}
+
+.img{
+    width: 120px;
+    height: 100px;
+    margin-left: 72%;
+   position: relative;
+   top: 155px;
+}
+
+.ww { 
+    border: 1px solid #fff;
+    width: 700px;
+    height: 400px;
+    /* margin-top: 190px; */
+    /* padding-left: 120px; */
+    padding: 50px 120px 50px 120px;
+}
+
+.ss{
+    width: 80px;
+    position: relative;
+    top: -270px;
+    padding-left: 20px;
+}
+
+.xx{
+    width: 80px;
+    position: relative;
+    bottom: 270px;
+    left: 485px;
+}
+
+.mm{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 60px;
+}

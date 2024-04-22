@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+   background: url(/фон\ 2.jpg);
+    /* background-size: 100%;
+    background-repeat: no-repeat;
+    height: 690vh; */
+
+    
+}
+   
+.one h2{
+    color: white;
+    font-size: 40px;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.one img{
+    margin-left: 150px;
+    padding-top: 40px;
+    width: 410px;
+    height: 440px;
+}
+
+.two{
+    position: relative;
+    bottom: 490px;
+}
+.two h3{
+    color: white;
+    font-size: 35px;
+    margin-left: 650px;
+    padding-top: 35px;
+}
+
+.two p{
+    color: rgb(16, 97, 178);
+    margin-left: 655px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.four {
+    display: flex;
+    color: white;
+    position: relative;
+    bottom: 470px;
+    gap: 40px;
+    margin-left: 650px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr{
+    position: relative;
+    bottom: 460px;
+    width: 580px;
+    margin-left: 650px;
+}
+
+.p{
+    position: relative;
+    display: flex;
+    gap: 27px;
+    bottom: 455px;
+    color: white;
+    margin-left: 655px;
+    font-size: 18px;
+}
+
+.hr{
+    position: relative;
+    bottom: 445px;
+    width: 580px;
+    margin-left: 650px;
+}
+
+.five{
+    display: flex;
+    color: white;
+    gap: 75px;
+    text-align: center;
+    position: relative;
+    bottom: 435px;
+    margin-left: 680px;
+}
+
+.hr1{
+    position: relative;
+    bottom: 425px;
+    width: 580px;
+    margin-left: 650px;
+}
+.but{
+    position: relative;
+    bottom: 408px;
+
+}
+.but p{
+   border: 1px solid white;
+   width: 380px;
+   height: 30px;
+   color: white;
+   font-size: 20px;
+   text-align: center;
+   padding-top: 10px;
+   margin-left: 650px;
+}
+
+.six{
+    position: relative;
+    bottom: 280px;
+    margin-left: 150px;
+}
+.six h3{
+    color: white;
+    font-size: 35px;
+}
+
+.six p{
+    color: rgb(16, 97, 178);
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.seven{
+    color: white;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 40px;
+    position: relative;
+    bottom: 240px;
+    margin-left: 150px;
+}
+
+.img{
+    position: relative;
+    bottom: 535px;
+    margin-left: 780px;
+    width: 450px;
+    height: 550px;
+}
+
+.h2{
+    position: relative;
+    bottom: 890px;
+    width: 580px;
+    margin-left: 20%;
+}
+
+.ww{
+   margin-top: 300px;
+}
+
+.ten{
+    position: relative;
+    bottom: 280px;
+    right: 500px;
+}
+
+.img2 img{
+    position: relative;
+    bottom: 560px;
+    width: 420px;
+    height: 470px;
+    margin-left: 150px;
+}
+
+.eleven{
+    position: relative;
+    bottom: 580px;
+}

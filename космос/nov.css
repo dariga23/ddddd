@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    background: url(/фон\ 3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.container h2{
+    color: white;
+    margin-left: 200px;
+    font-size: 35px;
+    padding-top: 50px;
+}
+
+.container img{
+    /* padding-top: 20px; */
+    margin-left: 420px;
+    width: 520px;
+    height: 520px;
+}
+
+.container p{
+    color: white;
+    margin-left: 460px;
+   /* position: relative; */
+   /* top: 95px; */
+   font-size: 18px;
+   margin-top: 80px 
+}
+
+.p p{
+    color: rgb(53, 121, 225);
+    position: relati 80px;
+    top: 150px;
+    font-size: 25px;
+    margin-left: 600px;
+}
+
+.bb p{
+    color: white;
+    position: relative;
+    top: 220px;
+    left: 180px;
+}
+
+.one_img{
+   background: url(/Group\ 12.svg) no-repeat ;
+   /* margin-top: 10px; */
+   /* width: 600px; */
+   height: 100vh;
+   margin-left: 410px;
+   /* padding-top: 150px; */
+}
+
+.cc p{
+    color: white;
+    position: relative;
+    top: 325px;
+    left: 260px;
+}
+
+.vv p{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 325px;
+    left: 260px;
+}

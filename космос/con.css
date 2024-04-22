@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding-top: 50px;
+    background-color: black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 90vh;
+
+}
+
+.one { 
+    display: flex;
+    margin-left: 200px;
+    gap: 470px;
+}
+
+.one h2{
+    color: #fff;
+    /* font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-size: 30px;
+    padding-top: 25px;
+    /* margin-left: 310px; */
+}
+ 
+.two{
+    display: flex;
+    justify-content: space-around;
+    /* text-align: center; */
+}
+.two p{
+    color: #fff;
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 200px;
+}
+
+.p{
+    margin-right: 220px;
+}
+
+.three p{
+    color: white;
+    font-size: 18px;
+    margin-left: 200px;
+    padding-top: 90px;
+   margin-bottom: 10px;
+}
+
+hr{
+    width: 350px;
+    margin-left: 200px;
+}
+
+.four p{
+    border: 1px solid #fff;
+    color: white;
+    width: 350px;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.four img{
+    position: relative;
+    top: -430px;
+    left: 810px;
+}
+
+.cont2{
+    background: url(/kosmos-art-planety-638272.png);
+    background-size: 100%;
+    /* background-repeat: no-repeat; */
+    height: 29vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding-left: 470px;
+    gap: 70px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    padding-top: 60px;
+
+}
+
+.seven span{
+    color: red;
+}
